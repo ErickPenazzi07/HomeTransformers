@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react"
 import * as Paho from "paho-mqtt"
-import "./bootstrap-styles.css"
+import "./assets/bootstrap-styles.css"
 
 const App = () => {
   // Estados de conexão MQTT
